@@ -1,0 +1,9 @@
+{
+    "@@locale": "es",
+    "counterAppBarTitle": "Contador",
+    "firstScreen": "Uno screen",
+    "secondScreen": "Duo screen",
+    "@counterAppBarTitle": {
+        "description": "Texto mostrado en la AppBar de la página del contador"
+    }
+}
